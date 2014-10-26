@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple幹事</string>
+    <string name="title_section1">検索</string>
+    <string name="title_section2">リスト</string>
+    <string name="title_section3">ロック</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="msgWrongIDM">登録されているIDMと異なります。</string>
+    <string name="msgPasswordNew">このIDとEメールアドレスを登録しますか？</string>
+    <string name="msgPasswordUpdate">登録情報を更新してよろしいですか？</string>
+    <string name="txtLock">ロック</string>
+    <string name="txtLockNot">解除</string>
+
+</resources>
